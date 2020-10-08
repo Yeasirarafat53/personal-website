@@ -1,0 +1,106 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+  font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+}
+.name-highlight{
+    color: orange;
+    width: 20px;
+   
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+
+.half-width img{
+    width: 100%;
+    
+}
+
+section{
+    height: 500px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.half-width2{
+    width: 40%;
+    float: left;
+    margin-right: 5%;
+    padding-right: 2%;
+}
+.half-width2 img{
+    
+    
+    width: 100%;
+    
+    height: 100%;
+}
+
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,orange);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+
+.half-width3{
+    width: 25%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 3%;
+}
+    
+
+.half-width3 img{
+    width: 100%;
+}
+
+#textalign{
+    text-align: center;
+}
+
+#text2{
+    text-align: center;
+    font-size: bold;
+}
+#text3{
+    text-align: center;
+}
+
+.bgcolor{
+   text-align: center;
+   width: 50%;
+   background-image:linear-gradient(rgb(255, 0, 106),tomato);
+   padding: 10px 20px;
+   color: white;
+   border-radius: 5px;
+   font-weight: bold;
+   margin-left: 24%;
+    
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+
